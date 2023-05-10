@@ -1,5 +1,3 @@
-// VARIÁVEIS => Um espaço da memória do computador que guardamos algo (um numero, uma letra, um texto, uma imagem)
-// FUNÇÃO => Um trecho de código que só é executado quando é chamado
 
 let chave = "48967f827028a0cadbf85d093e251a6c"
 
